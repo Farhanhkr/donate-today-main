@@ -47,7 +47,7 @@ body{
     border: 2px solid tomato;
     background-color: rgba(245, 221, 217, 0.966);
 }
-input{
+#input{
     margin-bottom: 40px;
     border: none;
     border-bottom: 1px solid black;
@@ -98,5 +98,37 @@ input{
 .donation-serve img{
     width: 100%;
     border-radius: 5px;
+}
+.last-part{
+    text-align: center;
+    margin: 10px;
+}
+.last-form{
+    background-color: blanchedalmond;
+    margin: 50px 500px;
+    padding: 100px;
+    text-align: center;
+}
+.last-input input{
+background-size: 50px;
+width: 40%;
+height: 50px;
+}
+.last-input button{
+    background-size: 50px;
+    width: 20%;
+    height: 50px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    margin-top: 100px;
+    padding: 50px;
+}
+footer h1{
+    color: red;
+}
+footer p{
+    color: white;
 }
     
