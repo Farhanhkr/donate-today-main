@@ -91,4 +91,12 @@ input{
 .third-icon{
     width: 50px;
 }
+.donation-serve{
+    padding: 2%;
+    width: 50%;
+}
+.donation-serve img{
+    width: 100%;
+    border-radius: 5px;
+}
     
