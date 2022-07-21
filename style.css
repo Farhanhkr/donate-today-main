@@ -103,22 +103,20 @@ body{
     text-align: center;
     margin: 10px;
 }
-.last-form{
-    background-color: blanchedalmond;
-    margin: 50px 500px;
+.email{
+    background-color: rgba(255, 232, 193, 0.904);
     padding: 100px;
-    text-align: center;
+    margin: 50px 500px;
 }
-.last-input input{
-background-size: 50px;
-width: 40%;
-height: 50px;
+#span-one{
+    padding: 5px 200px 5px 5px;
+    background-color: grey;
 }
-.last-input button{
-    background-size: 50px;
-    width: 20%;
-    height: 50px;
+#span-two{
+    padding: 5px;
+    background-color: red;
 }
+
 footer{
     background-color: black;
     text-align: center;
